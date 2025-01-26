@@ -9,8 +9,7 @@ CodeDock allows users to create snippets, share them with the community, and dis
 ## Deployment
 
 Deployed on Vercel:  
-[https://CodeDock-liard-eta.vercel.app/](https://CodeDock-liard-eta.vercel.app/)
-
+[(https://code-dock.vercel.app/)]
 ## Features
 
 - **Snippet Creation**: Add new snippets and customize them with relevant tags.
