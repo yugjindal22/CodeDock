@@ -16,4 +16,4 @@ Deployed on Vercel:
 - **Snippet Creation**: Add new snippets and customize them with relevant tags.
 - **Search & Filter**: Search snippets by keyword or browse by categories.
 - **User Profiles**: View individual profiles and the snippets they have posted.
-- **Authentication**: Secure sign-in with popular providers (if implemented).
+- **Authentication**: Secure sign-in with popular providers like google.
