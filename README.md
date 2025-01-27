@@ -8,7 +8,8 @@ CodeDock allows users to create snippets, share them with the community, and dis
 
 ## Deployment
 
-Deployed on Vercel: https://code-dock.vercel.app
+Deployment on Vercel (Current): https://code-dock.vercel.app
+Note: Originally, the project was deployed using AWS ECS, but due to cost considerations, it has been transitioned to Vercel for continued development and cost efficiency.
 ## Features
 
 - **Snippet Creation**: Add new snippets and customize them with relevant tags.
